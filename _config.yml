@@ -1,6 +1,6 @@
 # Setup
 title: yujeongkwon's blog
-description: hello! my name is yujeong
+description: hello! my name is yujeongkwon
 url: https://yujeongkwon.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -36,7 +36,7 @@ social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/yujeongkwon
 google_site_verification: xxxxx
 lang: en
 
